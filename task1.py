@@ -75,7 +75,7 @@ else:
 
 # 5. to reverse a string
 
-# Take input from the usertext = input("Enter a string: ")# Reverse the stringreversed_text = text[::-1]# Display the resultprint("Reversed string:", reversed_text)
+ Take input from the usertext = input("Enter a string: ")# Reverse the stringreversed_text = text[::-1]# Display the resultprint("Reversed string:", reversed_text)
 
 
 
